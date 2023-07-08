@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.kicad_sym")(options "")(descr ""))
+  (lib (name "eec")(type "Legacy")(uri "/home/rob/Documents/ZPE/Current probe/eec.lib")(options "")(descr ""))
+)
